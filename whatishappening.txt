@@ -1,0 +1,9 @@
+Just some notes on the programs and stuff I'm using (for others, and also because I know I will forget all of this after tomorrow)
+
+I got the iso file from the disc of the game that I have owned since like 4th grade. Got it from GameStop and everything
+
+I'm using Ghidra to disassemble everything. I had to install an extension (https://github.com/chaoticgd/ghidra-emotionengine-reloaded?tab=readme-ov-file) so that it can work with PS2 games.
+
+I am primarily using these two guides as a reference to start off: https://tetracorp.github.io/tokimeki-memorial/methods/decompiling-psx-games.html and https://medium.com/@zaid960928/ghidra-tutorial-introduction-a3889e138434 . Also I will have to teach myself how to read in C because I've never had to learn that one myself in school (it's gotta be similar to C++, right...?).
+
+I honestly have not gotten any farther than the initial dump (lots of scary numbers I don't understand), but if I use/make any other programs, I will add them here.
