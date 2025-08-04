@@ -1,3 +1,4 @@
-still missing: "db.2.gbf" and "tmp634904408989925897.ps"
+still missing: "db.2.gbf" and "db.3.gbf"
 
 how to upload files bigger than 25m to github google search
+
