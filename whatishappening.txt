@@ -6,4 +6,11 @@ I'm using Ghidra to disassemble everything. I had to install an extension (https
 
 I am primarily using these two guides as a reference to start off: https://tetracorp.github.io/tokimeki-memorial/methods/decompiling-psx-games.html and https://medium.com/@zaid960928/ghidra-tutorial-introduction-a3889e138434 . Also I will have to teach myself how to read in C because I've never had to learn that one myself in school (it's gotta be similar to C++, right...?).
 
+
 I honestly have not gotten any farther than the initial dump (lots of scary numbers I don't understand), but if I use/make any other programs, I will add them here.
+
+-
+
+8/4 update: Started parsing through more of the files, and I have a feeling there was a lto of messed up data from the disc I used. I'm looking into other tools I can use to make the dissasembly more readable, but I have no clue what a lot of this stuff does or how to use it, so I'm just going to throw everything at the wall and see what sticks. Going to start with this and go from there: https://github.com/chaoticgd/ccc/?tab=readme-ov-file
+
+I'll update the files here later today. Hopefully I'll figure out how to upload them via cmd by then lol
