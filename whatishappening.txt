@@ -11,9 +11,8 @@ I honestly have not gotten any farther than the initial dump (lots of scary numb
 
 -
 
-8/4 update: Started parsing through more of the files, and I have a feeling there was a lto of messed up data from the disc I used. I'm looking into other tools I can use to make the dissasembly more readable, but I have no clue what a lot of this stuff does or how to use it, so I'm just going to throw everything at the wall and see what sticks. Going to start with this and go from there: https://github.com/chaoticgd/ccc/?tab=readme-ov-file
+8/4 update: Started parsing through more of the files, and I have a feeling there was a lto of messed up data from the disc I used. I'm looking into other tools I can use to make the dissasembly more readable, but I have no clue what a lot of this stuff does or how to use it. So far I've looked into https://github.com/chaoticgd/ccc and https://github.com/ethteck/splat/?tab=readme-ov-file and all I've gotten from this is that I should probably be using an IDE? But I'm not sure if I'm supposed to import everything from Ghidra to an IDE, or use one of these tools to do stuff in the IDE itself...
 
-So about that link I just mentioned...can't even figure out how to run it. But I guess it's supposed to work with ghidra-emotionengine-reloaded? (it might help if i knew what "cmake" was...) I'll keep trying with it, but don't be suprised if there's not much of a change in my code today.
+Anyway, I'll update the files here later today. Hopefully I'll figure out how to upload them via cmd by then lol
 
-I'll update the files here later today. Hopefully I'll figure out how to upload them via cmd by then lol
 
