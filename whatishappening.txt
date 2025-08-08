@@ -15,4 +15,13 @@ I honestly have not gotten any farther than the initial dump (lots of scary numb
 
 Anyway, I'll update the files here later today. Hopefully I'll figure out how to upload them via cmd by then lol
 
+-
+
+8/8 update: Started watching some videos to try to wrap my head around this more. Also ran my iso file through a ps2 emulator to confirm it wasn't busted. After re-analyzing the main slus file in ghidra, I ended up with a LOT more function names! I was able to find a lot of them in the offical ps2 documentation too. The only problem is...outside of the function names, nothing else matches. All of the parameters on my end are "void," whereas in the ps2 docs they are...literally anything else. Also, all of the functions except for 1 only do a syscall to a random number. This could just be ghidra being ghidra with its guessing anf stuff, but it's making it a lot harder to match up anything. The one method that DOES have more than just "syscall(random hex number)" is labelled "entry," but outside of the number of lines it has nothing else matches up. So I'm at a loss for how to proceed.
+
+I tried to break away from that for a bit and just focused on trying to find the main method, but even that proved difficult. There is an "entry" method, but there is no labelled libc_start or whatever it's called that could point me to the actual main method. The entry method calls like 5 different unnamed functions, so it could be any one of those...maybe??? 
+
+Anyway, I figured out how to properly export stuff into a c/c++ file, so I'll be uploading stuff to here in that format from now on. I think that'll make updating the repo easier on my end. I guess I'll continue to try again with this stuff another day.
+
+
 
