@@ -23,5 +23,10 @@ I tried to break away from that for a bit and just focused on trying to find the
 
 Anyway, I figured out how to properly export stuff into a c/c++ file, so I'll be uploading stuff to here in that format from now on. I think that'll make updating the repo easier on my end. I guess I'll continue to try again with this stuff another day.
 
+8/12 update: I started to look into just trying to find one individual thing in memory and had to stop myself when I downloaded the Blender installer. I've gone full circle... (please see my p4g mod attempt video on youtube for context)
+
+I figured out how to get 3D models from the game, but NOT through the code itself. So I didn't make any real progress today.
+
+
 
 
