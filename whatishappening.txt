@@ -27,6 +27,14 @@ Anyway, I figured out how to properly export stuff into a c/c++ file, so I'll be
 
 I figured out how to get 3D models from the game, but NOT through the code itself. So I didn't make any real progress today.
 
+-
+
+8/22: Tried to clean up a 3d model that I got from the game using an extension for my emulator, and deleting tons of extra polys I realized the model I ripped didn't have any bones. So I guess I'll need to find another way to get the 3d models from the game...
+Also yes I did end up installing blender again it was going to happen at some point
+
+Guess I'll try again another day...
+
+
 
 
 
